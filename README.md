@@ -22,6 +22,5 @@ End the program
 <img width="798" height="228" alt="image" src="https://github.com/user-attachments/assets/3d74b029-f915-41b9-88fb-f09656ce82e9" />
 
 ## Result: 
-
 Thus the solutions for the linear equations are successfully solved using python program
 
